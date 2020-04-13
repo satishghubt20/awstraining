@@ -1,2 +1,2 @@
 # awstraining
-Training Repository1
+Training Repository
